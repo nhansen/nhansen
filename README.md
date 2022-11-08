@@ -1,3 +1,4 @@
+Hi there! I'm a staff scientist at the National Institutes of Health working to learn more about variation in the human genome.
 
 <a rel="me" href="https://genomic.social/@nancyfhansen"></a>
 
