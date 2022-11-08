@@ -1,6 +1,6 @@
 I'm a staff scientist at the National Institutes of Health working to learn more about variation in the human genome. Pronouns: She/her
 
-<a rel="me nofollow" href="https://genomic.social/@nancyfhansen"></a>
+<a href="https://genomic.social/@nancyfhansen" rel="me nofollow"></a>
 
 <!--
 **nhansen/nhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
