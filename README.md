@@ -2,8 +2,6 @@ I'm a staff scientist at the National Institutes of Health working to learn more
 Mastodon: <a rel="nofollow me" class="Link--primary" href="https://genomic.social/@nancyfhansen">https://genomic.social/@nancyfhansen</a>
 Pronouns: She/her
 
-<a href="https://genomic.social/@nancyfhansen" rel="me nofollow"></a>
-
 <!--
 **nhansen/nhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
