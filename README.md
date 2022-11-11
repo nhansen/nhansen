@@ -1,4 +1,6 @@
-I'm a staff scientist at the National Institutes of Health working to learn more about variation in the human genome. Pronouns: She/her
+I'm a staff scientist at the National Institutes of Health working to learn more about variation in the human genome.
+Mastodon: <a rel="nofollow me" class="Link--primary" href="https://genomic.social/@nancyfhansen">https://genomic.social/@nancyfhansen</a>
+Pronouns: She/her
 
 <a href="https://genomic.social/@nancyfhansen" rel="me nofollow"></a>
 
